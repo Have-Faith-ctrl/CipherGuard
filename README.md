@@ -41,13 +41,3 @@ List of found ciphers categorized as weak or strong
 Unique vulnerabilities associated with weak ciphers
 Vulnerability Mappings
 CipherGuard identifies potential vulnerabilities associated with certain ciphers, including but not limited to
-
-![image](https://github.com/user-attachments/assets/cca3d84a-ed75-4efa-9d05-f9a6d18aec95)
-![image](https://github.com/user-attachments/assets/c1988726-e01a-49d0-8b84-3f74b1690964)
-![image](https://github.com/user-attachments/assets/bb2697df-c8f2-4566-b577-d6a77ce3811c)
-
-
-
-
-
-
