@@ -1,0 +1,2754 @@
+[
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM8",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM8",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ARIA128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ARIA256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA256-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES128-CCM8",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES256-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES256-CCM8",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "RSA-ARIA128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-ARIA256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "RSA-CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RSA-CAMELLIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "RSA-CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RSA-CAMELLIA256-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES256",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES128",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES128",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES256-GCM",
+    "Cipher Suite Name (IANA)": "AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES128-GCM",
+    "Cipher Suite Name (IANA)": "AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES256-SHA256",
+    "Cipher Suite Name (IANA)": "AES256-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES256-SHA",
+    "Cipher Suite Name (IANA)": "AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES128-SHA",
+    "Cipher Suite Name (IANA)": "AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-DSS-AES256-GCM",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-DSS-AES128-GCM",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-DSS-AES256-SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-DSS-AES128-SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-RC4-SHA",
+    "Cipher Suite Name (IANA)": "RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-3DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-3DES-CBC",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-3DES-CBC",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES256-CCM8",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES256-CCM8",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES128-CCM8",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES128-CCM8",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES256-CCM8",
+    "Cipher Suite Name (IANA)": "AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-AES128-CCM8",
+    "Cipher Suite Name (IANA)": "AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS-RC4-MD5",
+    "Cipher Suite Name (IANA)": "RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS-RC4-SHA",
+    "Cipher Suite Name (IANA)": "RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EXP-RC4-MD5",
+    "Cipher Suite Name (IANA)": "EXP-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EXP-RC4-SHA",
+    "Cipher Suite Name (IANA)": "EXP-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EXP-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "EXP-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EDH-RSA-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "EDH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EDH-DSS-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "EDH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-RC4",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-RC4",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES256",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-AES128",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-AES128",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-RC4",
+    "Cipher Suite Name (IANA)": "DHE-RSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-DSS-RC4",
+    "Cipher Suite Name (IANA)": "DHE-DSS-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-RSA-3DES-CBC",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-ECDHE-ECDSA-3DES-CBC",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EDH-RSA-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "EDH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-EDH-DSS-DES-CBC-SHA",
+    "Cipher Suite Name (IANA)": "EDH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES256",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS-DHE-RSA-AES128",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "NULL-MD5",
+    "Cipher Suite Name (IANA)": "TLS_NULL_WITH_NULL_NULL"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_NULL_MD5",
+    "Cipher Suite Name (IANA)": "NULL-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_EXPORT_WITH_RC4_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_RC4_128_MD5",
+    "Cipher Suite Name (IANA)": "RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-RC2-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_IDEA_CBC_SHA",
+    "Cipher Suite Name (IANA)": "IDEA-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-DH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-DH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-EDH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EDH-DSS-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EDH-DSS-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-EDH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EDH-RSA-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EDH-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_EXPORT_WITH_RC4_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-ADH-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_RC4_128_MD5",
+    "Cipher Suite Name (IANA)": "ADH-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA",
+    "Cipher Suite Name (IANA)": "EXP-ADH-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "FORTEZZA-KEA_WITH_NULL-SHA",
+    "Cipher Suite Name (IANA)": "SSL_FORTEZZA_KEA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "FORTEZZA-KEA_WITH_FORTEZZA-CBC-SHA",
+    "Cipher Suite Name (IANA)": "SSL_FORTEZZA_KEA_WITH_FORTEZZA_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "FORTEZZA-KEA_WITH_RC4-128-SHA",
+    "Cipher Suite Name (IANA)": "SSL_FORTEZZA_KEA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "KRB5-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "KRB5-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "KRB5-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_IDEA_CBC_SHA",
+    "Cipher Suite Name (IANA)": "KRB5-IDEA-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_DES_CBC_MD5",
+    "Cipher Suite Name (IANA)": "KRB5-DES-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_3DES_EDE_CBC_MD5",
+    "Cipher Suite Name (IANA)": "KRB5-DES-CBC3-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_RC4_128_MD5",
+    "Cipher Suite Name (IANA)": "KRB5-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_WITH_IDEA_CBC_MD5",
+    "Cipher Suite Name (IANA)": "KRB5-IDEA-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-RC2-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_RC4_40_SHA",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-DES-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-RC2-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_KRB5_EXPORT_WITH_RC4_40_MD5",
+    "Cipher Suite Name (IANA)": "EXP-KRB5-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "PSK-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "DHE-PSK-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "RSA-PSK-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_NULL_SHA256",
+    "Cipher Suite Name (IANA)": "NULL-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "AES256-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_AES_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DH-DSS-AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_AES_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DH-RSA-AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_CAMELLIA_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-CAMELLIA128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_CAMELLIA_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-CAMELLIA256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "PSK-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "PSK-RC4-128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "PSK-3DES-EDE-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "PSK-AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "PSK-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "RSA-PSK-RC4-128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "RSA-PSK-3DES-EDE-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "RSA-PSK-AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "RSA-PSK-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-DSS-SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DH-RSA-SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-DSS-SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "DHE-RSA-SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_SEED_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ADH-SEED-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "DH-RSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "DH-RSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "DHE-DSS-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "DH-DSS-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "DH-DSS-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "ADH-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "ADH-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DH-DSS-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DH-RSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-DSS-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-RSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ADH-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_EMPTY_RENEGOTIATION_INFO_SCSV",
+    "Cipher Suite Name (IANA)": "TLS_FALLBACK_SCSV"
+  },
+  {
+    "Name (OpenSSL)": "TLS_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_CHACHA20_POLY1305_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_AES_128_CCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_AES_128_CCM_8_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM_8_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_anon_WITH_NULL_SHA",
+    "Cipher Suite Name (IANA)": "AECDH-NULL-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_anon_WITH_RC4_128_SHA",
+    "Cipher Suite Name (IANA)": "AECDH-RC4-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "AECDH-DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_anon_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "AECDH-AES128-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_anon_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "AECDH-AES256-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-3DES-EDE-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-RSA-3DES-EDE-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_DSS_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-DSS-3DES-EDE-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_RSA_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-RSA-AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_RSA_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-RSA-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_DSS_WITH_AES_128_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-DSS-AES128-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_SRP_SHA_DSS_WITH_AES_256_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SRP-DSS-AES256-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_ARIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_ARIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_PSK_WITH_ARIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_PSK_WITH_ARIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "ECDH-ECDSA-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "ECDH-RSA-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_RSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_DSS_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_DSS_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_DSS_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DH_anon_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DH_anon_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_ECDSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDH_RSA_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDH_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_CAMELLIA_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_CAMELLIA_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_PSK_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "PSK-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "PSK-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-PSK-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "DHE-PSK-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "RSA-PSK-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "RSA-PSK-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_PSK_WITH_CAMELLIA_128_CBC_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-PSK-CAMELLIA128-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_PSK_WITH_CAMELLIA_256_CBC_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-PSK-CAMELLIA256-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_CCM",
+    "Cipher Suite Name (IANA)": "AES128-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_CCM",
+    "Cipher Suite Name (IANA)": "AES256-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_128_CCM",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_256_CCM",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_128_CCM_8",
+    "Cipher Suite Name (IANA)": "AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_AES_256_CCM_8",
+    "Cipher Suite Name (IANA)": "AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_128_CCM_8",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_AES_256_CCM_8",
+    "Cipher Suite Name (IANA)": "DHE-RSA-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_128_CCM",
+    "Cipher Suite Name (IANA)": "PSK-AES128-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_256_CCM",
+    "Cipher Suite Name (IANA)": "PSK-AES256-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_AES_128_CCM",
+    "Cipher Suite Name (IANA)": "DHE-PSK-AES128-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_AES_256_CCM",
+    "Cipher Suite Name (IANA)": "DHE-PSK-AES256-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_128_CCM_8",
+    "Cipher Suite Name (IANA)": "PSK-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_AES_256_CCM_8",
+    "Cipher Suite Name (IANA)": "PSK-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_DHE_WITH_AES_128_CCM_8",
+    "Cipher Suite Name (IANA)": "DHE-PSK-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_DHE_WITH_AES_256_CCM_8",
+    "Cipher Suite Name (IANA)": "DHE-PSK-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_128_CCM",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_256_CCM",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-CCM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_128_CCM_8",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_256_CCM_8",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-CCM8"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256_OLD",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CHACHA20-POLY1305-OLD"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256_OLD",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256_OLD",
+    "Cipher Suite Name (IANA)": "DHE-RSA-CHACHA20-POLY1305-OLD"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-RSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-RSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_PSK_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "PSK-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-PSK-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_DHE_PSK_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "DHE-PSK-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_PSK_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "RSA-PSK-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "TLS_GOSTR341094_RSA_WITH_28147_CNT_MD5",
+    "Cipher Suite Name (IANA)": "GOST-MD5"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_28147_CNT_GOST94",
+    "Cipher Suite Name (IANA)": "GOST-GOST94"
+  },
+  {
+    "Name (OpenSSL)": "TLS_GOSTR341094_WITH_28147_CNT_GOST89_MAC",
+    "Cipher Suite Name (IANA)": "GOST-GOST89MAC"
+  },
+  {
+    "Name (OpenSSL)": "TLS_GOSTR341094_WITH_28147_CNT_GOST89_STREAM",
+    "Cipher Suite Name (IANA)": "GOST-GOST89STREAM"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_DES_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SSL_RSA_FIPS_WITH_DES_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA",
+    "Cipher Suite Name (IANA)": "SSL_RSA_FIPS_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_RC4_128_WITH_MD5",
+    "Cipher Suite Name (IANA)": "RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_RC4_128_EXPORT40_WITH_MD5",
+    "Cipher Suite Name (IANA)": "EXP-RC4-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_RC2_128_CBC_WITH_MD5",
+    "Cipher Suite Name (IANA)": "RC2-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_RC2_128_CBC_EXPORT40_WITH_MD5",
+    "Cipher Suite Name (IANA)": "EXP-RC2-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_IDEA_128_CBC_WITH_MD5",
+    "Cipher Suite Name (IANA)": "IDEA-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_DES_64_CBC_WITH_MD5",
+    "Cipher Suite Name (IANA)": "DES-CBC-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_DES_64_CBC_WITH_SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC-SHA"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_DES_192_EDE3_CBC_WITH_MD5",
+    "Cipher Suite Name (IANA)": "DES-CBC3-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_DES_192_EDE3_CBC_WITH_SHA",
+    "Cipher Suite Name (IANA)": "DES-CBC3-SHA"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_RC4_64_WITH_MD5",
+    "Cipher Suite Name (IANA)": "RC4-64-MD5"
+  },
+  {
+    "Name (OpenSSL)": "SSL_CK_DES_64_CFB64_WITH_MD5_1",
+    "Cipher Suite Name (IANA)": "DES-CFB-M1"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES128-GCM-SHA256"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-AES256-GCM-SHA384"
+  },
+  {
+    "Name (OpenSSL)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256",
+    "Cipher Suite Name (IANA)": "ECDHE-ECDSA-CHACHA20-POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-RC4",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-RC4",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-3DES-CBC3",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "NULL-MD5",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_NULL_MD5"
+  },
+  {
+    "Name (OpenSSL)": "NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "RC4-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "IDEA-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_IDEA_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-NO-AES",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-NO-AES",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "PSK-3DES-CBC3",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "CCAM128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CCAM_128_CBC"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_FALLBACK_SCSV"
+  },
+  {
+    "Name (OpenSSL)": "NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_EMPTY_RENEGOTIATION_INFO_SCSV"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM-8",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM-8",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_CCM_8"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA128-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA256-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-SEED-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_SEED_CBC"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-SEED-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_SEED_CBC"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_EMPTY_RENEGOTIATION_INFO_SCSV"
+  },
+  {
+    "Name (OpenSSL)": "NULL-SHA",
+    "Cipher Suite Name (IANA)": "TLS_FALLBACK_SCSV"
+  },
+  {
+    "Name (OpenSSL)": "RC4-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CHACHA20",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_CCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CBC-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-CBC-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CBC-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-CBC-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "RC4-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "IDEA-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_IDEA_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CBC-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CBC-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ARIA128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ARIA256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-RC4-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-CBC-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "PSK-DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES256-CBC",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_CCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "PSK-CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-CHACHA20-POLY1305",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CCM"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-CCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CCM"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-PSK-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_PSK_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DES-CBC3-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "RC4-MD5",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_MD5"
+  },
+  {
+    "Name (OpenSSL)": "RC4-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "IDEA-CBC",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_IDEA_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-RC4",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-RC4",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_RC4_128_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-DES-CBC3",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-DES-CBC3",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES128-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-AES256-GCM",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_AES_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-NULL",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-NULL",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_NULL_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-DSS-CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "CAMELLIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CAMELLIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-CAMELLIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-CAMELLIA128-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_CAMELLIA_128_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-CAMELLIA256-SHA",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_CAMELLIA_256_CBC_SHA"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-CAMELLIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CAMELLIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-CAMELLIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_CAMELLIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-ARIA128-CBC-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_128_CBC_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-ARIA256-CBC-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_256_CBC_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-RSA-ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-ECDSA-ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_ECDSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "ECDHE-RSA-ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "DHE-PSK-ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_DHE_PSK_WITH_ARIA_256_GCM_SHA384"
+  },
+  {
+    "Name (OpenSSL)": "PSK-ARIA128-GCM-SHA256",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_128_GCM_SHA256"
+  },
+  {
+    "Name (OpenSSL)": "PSK-ARIA256-GCM-SHA384",
+    "Cipher Suite Name (IANA)": "TLS_PSK_WITH_ARIA_256_GCM_SHA384"
+  }
+]
