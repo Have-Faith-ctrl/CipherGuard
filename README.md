@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97b5c279-1619-4d5a-8b70-18b6d7c3f420)CipherGuard
+CipherGuard
 
 CipherGuard is a comprehensive command-line tool for SSL enumeration and cipher analysis, designed to help security professionals identify weak ciphers and enhance server security configurations. This tool leverages Nmap for enumeration, detects server types, and provides strong cipher recommendations based on industry standards.
 
