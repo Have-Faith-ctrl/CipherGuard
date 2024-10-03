@@ -39,5 +39,13 @@ Detected server type
 Server configuration path
 List of found ciphers categorized as weak or strong
 Unique vulnerabilities associated with weak ciphers
-Vulnerability Mappings
-CipherGuard identifies potential vulnerabilities associated with certain ciphers, including but not limited to
+Vulnerability Mappings 
+CipherGuard identifies potential vulnerabilities associated with certain ciphers
+Also provide OPENSSL Name for the Cipher Suite Name (IANA)
+
+![image](https://github.com/user-attachments/assets/d888fb97-7ab1-44d1-9303-ae007eff799a)
+![image](https://github.com/user-attachments/assets/14f886a5-e0c3-45cf-bc43-9a8e7b2cee22)
+![image](https://github.com/user-attachments/assets/7970cfc3-404c-46bb-ac1c-de1ef215f105)
+
+
+
