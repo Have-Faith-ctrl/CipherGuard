@@ -11,7 +11,7 @@ Config Path Retrieval: Provides recommended configuration paths based on detecte
 Installation
 Clone the repository:
 
-git clone https://github.com/Have-Faith-ctrl/CipherGuard.git
+git clone https://github.com/Have-Faith-ctrl/CipherGuard
 
 cd CipherGuard
 Install dependencies: Ensure you have Python and Nmap installed on your machine.
