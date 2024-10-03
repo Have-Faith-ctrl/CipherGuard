@@ -1,4 +1,4 @@
-#CipherGuard
+CipherGuard
 
 CipherGuard is a comprehensive command-line tool for SSL enumeration and cipher analysis, designed to help security professionals identify weak ciphers and enhance server security configurations. This tool leverages Nmap for enumeration, detects server types, and provides strong cipher recommendations based on industry standards.
 
@@ -30,12 +30,10 @@ Parameters
 -u or --url: Target domain or IP address (required).
 -p or --port: Port to scan (default is 443).
 -j or --json: Path to the JSON file containing OpenSSL and IANA cipher mappings (required).
-Example
-bash
-Copy code
+
+
 python cipherguard.py -u example.com -p 443 -j openssl_mappings.json
-Output
-CipherGuard will display:
+
 
 Detected server type
 Server configuration path
