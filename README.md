@@ -39,11 +39,8 @@ Detected server type
 Server configuration path
 List of found ciphers categorized as weak or strong
 Unique vulnerabilities associated with weak ciphers
-Recommendations for strong ciphers
 Vulnerability Mappings
-CipherGuard identifies potential vulnerabilities associated with certain ciphers, including but not limited to:
+CipherGuard identifies potential vulnerabilities associated with certain ciphers, including but not limited to
 
-CBC: Vulnerable to various attacks such as Padding Oracle and BEAST.
-RSA: Risks from attacks like Bleichenbacher's and Common Modulus.
-RC4: Known for key recovery attacks and output bias.
-EXPORT: Weak due to limited key sizes.
+![image](https://github.com/user-attachments/assets/94c9087b-2f74-4cca-a7a0-b5ece4e2a6e0)
+
